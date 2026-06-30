@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on Optimizing CI-CD<br><br>🌱 I’m currently learning DevOps<br><br>👨‍💻 All of my projects are available at https://dishanth.co.in/projects<br><br>💬 Ask me about MuleSoft, API'S, Integration<br><br>📫 How to reach me https://ashishjha.co.in/contact<br><br>⚡ Fun fact I'm a memer and a coin collector
+🔭 I’m currently working on Optimizing CI-CD<br><br>🌱 I’m currently learning DevOps<br><br>👨‍💻 All of my projects are available at https://dishanth.co.in/projects<br><br>💬 Ask me about MuleSoft, API'S, Integration<br><br>📫 How to reach me https://dishanth.co.in/contact<br><br>⚡ Fun fact I'm a memer and a coin collector
 
 
 ## 🌐 Socials:
